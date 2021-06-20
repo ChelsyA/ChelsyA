@@ -1,9 +1,11 @@
 
 
-# Hi, welcome to my GitHub! 
+# Hi, welcome to my GitHub👋! 
 
-<p>I'm a junior Ethical Hacker focused on Pentesting and Malware and threat analysisat <strong>. 
+<p>I'm a junior Ethical Hacker focused on Pentesting and Malware and threat analysis <strong>. 
 
+
+💻🖥️
 I've been in technology since 2018 as an Information technology student with a background computer networking, and up until this  time I fell in love with Cybersecurity security and its associated tools so I  decided to break into this field with desire to delve deeper into with the most diverse types of technologies  like: gamming programming, web programming, network management systems, system architecture
 </p>
 
@@ -20,7 +22,7 @@ I've been in technology since 2018 as an Information technology student with a b
 - ☁️ Cloud
       
     <img src="https://www.neudesic.com/wp-content/uploads/Microsoft_Azure.png" alt="Azure"
-    title="Azure" width="10%" />
+    title="Azure" width="15%" />
     
 
 
@@ -40,7 +42,7 @@ I've been in technology since 2018 as an Information technology student with a b
 </a>
 
   <p align="center">
-    See you! 
+    See you😊! 
 
   
 
