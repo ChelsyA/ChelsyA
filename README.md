@@ -19,16 +19,13 @@ I've been in technology since 2018 as an Information technology student with a b
 
 
 ## 🛠️Tech Stack
-- <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/google.svg" alt="Google Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python.svg" alt=" Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/github.svg" alt="Github Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash.svg" alt="Bash Logo" width="50" height="50"/>
 
-
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/google-1-1.svg" alt="Google Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" alt=" Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/github.svg" alt="Github Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash.svg" alt="Bash Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code Logo" width="50" height="50"/>
 
     
 - ☁️ Cloud
       
-    <img src="https://www.neudesic.com/wp-content/uploads/Microsoft_Azure.png" alt="Azure"
-    title="Azure" width="15%" />
-    
+     <img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-3.svg" alt="Microsoft Azure Logo" width="50" height="50"/>
 
 
 
@@ -49,11 +46,7 @@ I've been in technology since 2018 as an Information technology student with a b
   <p align="center">
     See you😊! 
 
-  
 
-   <!--
-<a href="https://drive.google.com/file/d/0B20aGN1khT3pMWxEU2ZkZG5CUmc/view"><img src="https://www.datacrunchlab.com/wp-content/uploads/2019/04/Certified-IBM-Analytics-badge.png" alt="IBM Certified Administrator - Cognos 10 BI"
-   title="Architecture" width="20%" style="float:left; /> </a> 
 **ChelsyA/ChelsyA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
