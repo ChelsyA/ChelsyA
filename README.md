@@ -19,9 +19,10 @@ I've been in technology since 2018 as an Information technology student with a b
 
 
 ## 🛠️Tech Stack
-- 👩‍💻 Programming Languages
-  
-    ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+- <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/google.svg" alt="Google Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python.svg" alt=" Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/github.svg" alt="Github Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash.svg" alt="Bash Logo" width="50" height="50"/>
+
+
+
     
 - ☁️ Cloud
       
