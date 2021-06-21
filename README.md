@@ -10,8 +10,12 @@ I've been in technology since 2018 as an Information technology student with a b
 </p>
 
 ## 👩‍💻 About me
-* <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Programming
-* <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> My favorite programming language is Python
+
+:heart: I love everything :computer: technology, ☘️nature and  🐕animals.</br>
+:sunglasses: I am currently unleashing my desire for cybersecurity.👩‍💻</br>
+:earth_africa: :earth_asia: :earth_americas: I look forward to collaborating with ethical hackers and cybersecurity security enthusiasts. </br>
+:sparkles: Fun fact: I love to get crafty with my hands and fashion design when I'm not thinking about technology</br>
+
 
 
 ## 🛠️Tech Stack
