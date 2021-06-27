@@ -2,7 +2,7 @@
 
 # Hi, welcome to my GitHub👋! 
 
-<p>I'm a junior Ethical Hacker focused on Pentesting and Malware and threat analysis <strong>. 
+<p>I'm a junior Ethical Hacker focused on Pentesting, Malware and threat analysis <strong>. 
 
 
 💻🖥️
@@ -25,7 +25,7 @@ I've been in technology since 2018 as an Information technology student with a b
     
 - ☁️ Cloud
       
-     <img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-3.svg" alt="Microsoft Azure Logo" width="50" height="50"/>
+     <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Microsoft Azure Logo" width="50" height="50"/>
 
 
 
@@ -36,7 +36,7 @@ I've been in technology since 2018 as an Information technology student with a b
    
 <p align="center">
 
-<a href="https://www.linkedin.com/in/chelsyaryeetey">
+<a href="https://www.linkedin.com/in/chelsyaryeetey/">
   <code><img alt="My linkedin" width="32" src="https://th.bing.com/th/id/Rf856d3e21e2b8424a7f9b805f91c39bf?rik=iAF35zp5hTwH5Q&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2ff%2ff9%2fLinkedin_Shiny_Icon.svg%2f600px-Linkedin_Shiny_Icon.svg.png&ehk=2tliRYem%2brILmEvpk98L%2bTZGOK8XcB8xZ865AB5RwDQ%3d&risl=&pid=ImgRaw" /></code>
 </a>
 <a href="charyeetey@gmail.com">
