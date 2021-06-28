@@ -20,13 +20,32 @@ I've been in technology since 2018 as an Information technology student with a b
 
 ## 🛠️Tech Stack
 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/google-1-1.svg" alt="Google Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" alt=" Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="Github Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code Logo" width="50" height="50"/>
+<img align="left" alt="github"
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img align="left" alt="python"
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img align="left" alt="html"
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left" alt="css"
+https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+<img align="left" alt="javascript"
+https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img align="left" alt="windows"
+https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img align="left" alt="react"
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="left" alt="django"
+https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img align="left" alt="mysql"
+https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
-    
+
+
 - ☁️ Cloud
       
-     <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Microsoft Azure Logo" width="50" height="50"/>
-
+     <img align="left" alt="microsoft-azure"
+https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+    
 
 
 ---
