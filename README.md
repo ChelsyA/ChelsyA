@@ -1,4 +1,4 @@
-
+1
 
 # Hi, welcome to my GitHub👋! 
 
@@ -45,9 +45,8 @@
 ---
 ---
 ---
-### Now Playing 🎧🎶
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/7L5CIpxU2m2AKtxtovtEBs?si=dlLc1ko8QYKVEYHnEb6yKg&utm_source=copy-link&dl_branch=1)<br/>
+
 ---
  
 <p align="center">
