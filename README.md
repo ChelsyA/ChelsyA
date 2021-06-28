@@ -3,11 +3,9 @@
 # Hi, welcome to my GitHub👋! 
 
 <p>I'm a junior Ethical Hacker focused on Pentesting, Malware and threat analysis <strong>. 
+I enjoy learning about diverse types of technologies  like: programming, web programming, network management systems and architecture.</p>
 
 
-💻🖥️
-I've been in technology since 2018 as an Information technology student with a background in computer networking, and up until this  time I fell in love with Cybersecurity and its associated tools so I  decided to break into this field with desire to delve deeper into it. I also enjoy learning diverse types of technologies  like: programming, web programming, network management systems, system architecture
-</p>
 
 ## 👩‍💻 About me
 
@@ -32,6 +30,8 @@ I've been in technology since 2018 as an Information technology student with a b
 <img alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img alt="kalilinux" src"https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
 
 
 
@@ -57,8 +57,7 @@ I've been in technology since 2018 as an Information technology student with a b
   <code><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></code>
 </a>
 <a href="charyeetey@gmail.com">
-<code><img alt="My e-mail" width="32" src="https://th.bing.com/th/id/R2c94e80bc439f8ac26eed33063918083?rik=4GOohs1wTVXZbQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2fb%2fb1%2fEmail_Shiny_Icon.svg%2f1024px-Email_Shiny_Icon.svg.png&ehk=lV8sLmfGMfJDgFFgydLDuGp1fJVLXowNb1kShmsPDB4%3d&risl=&pid=ImgRaw" /></code>
-</a>
+<code><img alt="My e-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></code></a>
 
   <p align="center">
     See you😊! 
