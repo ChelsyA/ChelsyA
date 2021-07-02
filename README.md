@@ -1,5 +1,5 @@
 
-# Hi, welcome to my GitHub <img src="https://raw.githubusercontent.com/wave.gif" width="30px" !
+# Hi, welcome to my GitHub👋!
 
 <p>I'm a junior Ethical Hacker focused on Pentesting, Malware and threat analysis. I enjoy learning about diverse types of technologies  like: programming, web programming, network management systems and architecture.<strong> </p>
 
