@@ -1,6 +1,6 @@
  Hi, welcome to my GitHub👋!
 
-<p>I'm a junior Ethical Hacker focused on Pentesting, Malware and threat analysis. I enjoy learning about diverse types of technologies  like: programming, web programming, network management systems and architecture.<strong> </p>
+<p>I'm a junior Ethical Hacker focused on Pentesting, Malware and threat analysis. I enjoy learning about diverse types of technologies  like: programming, troubleshooting, computer networks,  web programming, network management systems and architecture.<strong> </p>
 
 ---
 
@@ -8,7 +8,7 @@
 
 :heart: I love everything :computer: technology, ☘️nature and  🐕animals.
 :sunglasses: I am currently unleashing my desire for cybersecurity.👩‍💻
-:earth_africa: :earth_asia: :earth_americas: I look forward to collaborating with ethical hackers and cybersecurity security enthusiasts. 
+:earth_africa: :earth_asia: :earth_americas: I look forward to collaborating with ethical hackers and cybersecurity enthusiasts. 
 :sparkles: Fun fact: I love to get crafty with my hands and fashion design when I'm not thinking about technology.
 
 
